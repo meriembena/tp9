@@ -4,6 +4,7 @@ package bowling;
  * Correspond à un tour du jeu, constitué de 1 ou 2 lancers
  * Connait son tour suivant, pour calculer le bonus éventuel
  * pour le strike ou le spare.
+ * *
  */
 public class Tour {
 

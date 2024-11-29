@@ -1,6 +1,7 @@
 package bowling;
 
 /**
+ * *
  * Cette classe a pour but d'enregistrer le nombre de quilles abattues lors des
  * lancés successifs d'<b>un seul et même</b> joueur, et de calculer le score
  * final de ce joueur
